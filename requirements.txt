@@ -1,0 +1,14 @@
+Flask==3.0.3
+flask-cors==4.0.1
+torch>=2.2.0
+transformers>=4.41.0
+datasets>=2.19.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+Pillow>=10.3.0
+pytesseract>=0.3.10
+gTTS>=2.5.1
+deep-translator>=1.11.4
+indic-nlp-library>=0.92
+python-dotenv>=1.0.1

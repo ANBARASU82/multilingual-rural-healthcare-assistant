@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Node / React
+node_modules/
+dist/
+.vite/
+frontend/.env
+
+# Generated local files
+backend/uploads/
+backend/generated_audio/
+
+# Large ML artifacts
+backend/model/checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
