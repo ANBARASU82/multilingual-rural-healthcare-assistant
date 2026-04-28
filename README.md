@@ -166,3 +166,6 @@ The architecture is designed for:
 
 Actual values depend on dataset quality, hardware, sequence length, and deployment settings.
 
+For image report upload, Tesseract must be installed at:
+
+C:\Program Files\Tesseract-OCR\tesseract.exe
